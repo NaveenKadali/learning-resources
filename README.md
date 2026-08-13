@@ -1,5 +1,6 @@
 # learning-resources
-> ## Python:
+> ## Python: Fundamentals [Online Interpreter](https://www.programiz.com/python-programming/online-compiler/)
+> ### Objective: to get familiar with programming language and basic coding
 > 1. Variables, data types (int, float, str, bool, None) [Link: https://...](https://app.notion.com/p/Variables-data-types-int-float-str-bool-None-type-casting-3ab3567b88ab80868326facc191fa27f?source=copy_link)
 > 2. Operators: arithmetic, comparison, logical, bitwise, walrus := ([Link](https://app.notion.com/p/Operators-arithmetic-comparison-logical-bitwise-walrus-3ab3567b88ab80efbfefc43ecca2d7c2?source=copy_link))
 > 3. More on print() and input() [Link: https://.....](https://app.notion.com/p/print-and-input-3bb3567b88ab80a4b84ed8acb3624232?source=copy_link)
