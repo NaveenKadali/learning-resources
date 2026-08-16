@@ -7,8 +7,10 @@
 > 3. More on print() and input() [Click Here](https://app.notion.com/p/print-and-input-3bb3567b88ab80a4b84ed8acb3624232?source=copy_link)
 > 4. Control Statements: If, elif, else [click here](https://app.notion.com/p/Control-statements-if-elif-else-3ab3567b88ab802b8c78fc3ec73241e6?source=copy_link)
 > 5. Coding Questions on what you have learnt so far: Variables, Operators, and Conditional Statements [click here](https://app.notion.com/p/Coding-Questions-on-What-you-have-learnt-so-far-3bb3567b88ab801bb5e0d49c68df2a37?source=copy_link)
-> 6. Loops and Loop control statements (for, while, continue, break, pass) [click here](https://app.notion.com/p/Loops-and-Loop-Control-Statements-3bb3567b88ab80f7a612c2a45faf53cb?source=copy_link)
-> 7. Coding Questions on Loops and control flow statements [click here](https://app.notion.com/p/Coding-Questions-on-Loops-and-Loop-Control-statements-3bb3567b88ab80d3b5aacfd5df7ba407?source=copy_link)
-> 8. Data Structures: `list, tuple, dict, set, frozeset` and their `comprehensions` [click here](https://app.notion.com/p/Data-Structures-3bb3567b88ab80158b99d4e6032b58d8?source=copy_link)
+> 6. Strings [click here](https://app.notion.com/p/Strings-3bb3567b88ab80af91ccea3ae344ae82?source=copy_link)
+> 7. Slicing [click here](https://app.notion.com/p/Slicing-3bb3567b88ab80e28559c4b643bef69c?source=copy_link)
+> 8. Loops and Loop control statements (for, while, continue, break, pass) [click here](https://app.notion.com/p/Loops-and-Loop-Control-Statements-3bb3567b88ab80f7a612c2a45faf53cb?source=copy_link)
+> 9. Coding Questions on Loops and control flow statements [click here](https://app.notion.com/p/Coding-Questions-on-Loops-and-Loop-Control-statements-3bb3567b88ab80d3b5aacfd5df7ba407?source=copy_link)
+> 10. Data Structures: `list, tuple, dict, set, frozeset` and their `comprehensions` [click here](https://app.notion.com/p/Data-Structures-3bb3567b88ab80158b99d4e6032b58d8?source=copy_link)
 > 
 > ### Online Interpreter: [click here](https://www.programiz.com/python-programming/online-compiler/)
